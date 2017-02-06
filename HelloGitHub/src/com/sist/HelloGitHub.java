@@ -9,5 +9,6 @@ public class HelloGitHub {
 		System.out.println("Comfilct");
 		System.out.println("fetched");
 		System.out.println("pushed");
+		System.out.println("Git pull testing");
 	}
 }
